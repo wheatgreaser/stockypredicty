@@ -5,5 +5,5 @@ yfinance
 scikit-learn
 fastapi
 uvicorn
-vercel-asgi
+vercel
 
