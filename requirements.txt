@@ -6,4 +6,4 @@ scikit-learn
 fastapi
 uvicorn
 vercel
-
+apscheduler
